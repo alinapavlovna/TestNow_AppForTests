@@ -1,0 +1,22 @@
+﻿  InformationForm.cpp
+  LoginForm.cpp
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.h(425,28): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.h(483,22): warning C4101: ex: неиспользованная локальная переменная
+  MainForm.cpp
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.h(425,28): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.h(483,22): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\RegistrationForm.h(319,40): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\RegistrationForm.h(334,28): warning C4101: ex: неиспользованная локальная переменная
+  PasswordGenerator.cpp
+  RegistrationForm.cpp
+D:\Documents\VS прога\Final_Project_Kyselova\RegistrationForm.h(319,40): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\RegistrationForm.h(334,28): warning C4101: ex: неиспользованная локальная переменная
+  ResultForm.cpp
+  TestingForm.cpp
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.h(425,28): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.h(483,22): warning C4101: ex: неиспользованная локальная переменная
+  TestNow.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  InformationForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Final_Project_Kyselova.vcxproj -> D:\Documents\VS прога\Final_Project_Kyselova\Release\Final_Project_Kyselova.exe

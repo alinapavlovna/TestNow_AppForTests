@@ -1,0 +1,12 @@
+﻿  InformationForm.cpp
+  LoginForm.cpp
+  MainForm.cpp
+  RegistrationForm.cpp
+D:\Documents\VS прога\Final_Project_Kyselova\RegistrationForm.cpp(49,38): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\RegistrationForm.cpp(64,26): warning C4101: ex: неиспользованная локальная переменная
+  TestingForm.cpp
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.cpp(48,28): warning C4101: ex: неиспользованная локальная переменная
+D:\Documents\VS прога\Final_Project_Kyselova\TestingForm.cpp(109,20): warning C4101: ex: неиспользованная локальная переменная
+  Создание кода...
+  InformationForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Final_Project_Kyselova.vcxproj -> D:\Documents\VS прога\Final_Project_Kyselova\Debug\Final_Project_Kyselova.exe

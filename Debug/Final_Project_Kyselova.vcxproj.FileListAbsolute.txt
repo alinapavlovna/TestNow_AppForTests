@@ -1,0 +1,9 @@
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\Final_Project_Kyselova.vcxprojAssemblyReference.cache
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\FinalProjectKyselova.LoginForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\FinalProjectKyselova.MainForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\FinalProjectKyselova.RegistrationForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\Final_Project_Kyselova.vcxproj.GenerateResource.cache
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\Final_Project_Kyselova.exe
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\FinalProjectKyselova.InformationForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\FinalProjectKyselova.TestingForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Debug\FinalProjectKyselova.ResultForm.resources

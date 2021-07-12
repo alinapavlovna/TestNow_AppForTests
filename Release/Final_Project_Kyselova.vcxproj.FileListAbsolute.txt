@@ -1,0 +1,8 @@
+D:\Documents\VS прога\Final_Project_Kyselova\Release\FinalProjectKyselova.InformationForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Release\FinalProjectKyselova.LoginForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Release\FinalProjectKyselova.MainForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Release\FinalProjectKyselova.RegistrationForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Release\FinalProjectKyselova.ResultForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Release\FinalProjectKyselova.TestingForm.resources
+D:\Documents\VS прога\Final_Project_Kyselova\Release\Final_Project_Kyselova.vcxproj.GenerateResource.cache
+D:\Documents\VS прога\Final_Project_Kyselova\Release\Final_Project_Kyselova.exe
