@@ -76,12 +76,12 @@ System::Void FinalProjectKyselova::InformationForm::InformationForm_FormClosing(
 	Series^ plot = chart1->Series[0];
 
 	for (int i = 0; i < results->Length; i++) {
-		if (i % 2 != 0) {
+		if (i % 2 == 0) {
 			if (results[i]->Contains(group)) {
 				dataGridView1->Rows->Add();
 				dataGridView1->Rows[j]->Cells[0]->Value = results[i];
-				dataGridView1->Rows[j]->Cells[1]->Value = results[i - 1];
-				plot->Points->AddXY(results[i], results[i - 1]);
+				dataGridView1->Rows[j]->Cells[1]->Value = results[i + 1];
+				plot->Points->AddXY(results[i], results[i + 1]);
 
 				j++;
 			}

@@ -30,11 +30,12 @@ System::Void FinalProjectKyselova::LoginForm::button1_Click(System::Object^ send
 			}
 
 			if (!flag) {
+				File::AppendAllText("results.txt", login + " " + group + "\n");
+				user.writeLoginsStud(login, group);
 				Hide();
 				TestingForm^ ready = gcnew TestingForm();
 				ready->ShowDialog();
-				File::AppendAllText("results.txt", login + " " + group + "\n");
-				user.writeLoginsStud(login, group);
+			
 			}
 		}
 		else {
